@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.16
 
 # Install runtime dependencies. The versions are pinned for stable,
 # reproducible, deterministic, pure builds.
